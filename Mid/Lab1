@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h1>Profile</h1>
+
+<div style="display: flex;">
+
+  <fieldset style="width: 25%; height: 100%;">
+    <legend>General Information:</legend>
+    <table style="width:100%">
+      <tr>
+        <td style="width: 40%;"><b>First name</b></td>
+        <td style="width: 60%;">: Mir .Md</td>
+      </tr>
+
+      <tr>
+        <td><b>Last name</b></td>
+        <td>: Kawsur</td>
+      </tr>
+
+      <tr>
+        <td><b>Father's name</b></td>
+        <td>: XYZ</td>
+      </tr>
+
+      <tr>
+        <td><b>Mother's name</b></td>
+        <td>: ZYX</td>
+      </tr>
+
+      <tr>
+        <td><b>Blood Group</b></td>
+        <td>: B+</td>
+      </tr>
+
+      <tr>
+        <td><b>Religion</b></td>
+        <td>: Islam</td>
+      </tr>
+    </table>
+  </fieldset>
+
+  <fieldset style="width: 48%; height: 45%; margin-top: 22px; margin-right: 0;">
+    <legend>Contact Information:</legend>
+    <table style="width:100%">
+
+      <tr>
+        <td><b>Email</b></td>
+        <td>: kawsur@aiub.edu</td>
+      </tr>
+
+      <tr>
+        <td><b>Phone/Mobile</b></td>
+        <td>: +880-01518XXXXXX</td>
+      </tr>
+
+      <tr>
+        <td><b>Website</b></td>
+        <td>: https://kawsur.me</td>
+      </tr>
+
+      <tr>
+        <td><b>Present Address</b></td>
+        <td>: 408/1, kuratoli, Khilkhet, Dhaka 1229, Bangladesh</td>
+      </tr>
+
+    </table>
+  </fieldset>
+
+</div>
+
+</body>
+</html>
